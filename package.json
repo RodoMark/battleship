@@ -1,0 +1,17 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "A game of strategy and obfuscation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"mocha\""
+  },
+  "keywords": [
+    "battleship",
+    "ship",
+    "battle",
+    "game"
+  ],
+  "author": "alon.codes",
+  "license": "ISC"
+}
